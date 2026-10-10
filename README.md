@@ -1,10 +1,10 @@
-# comfyUI-solarL-AV Tools
+# comfyUI-solarL-AVTools
 
 solarL 个人 ComfyUI 音视频工具集。
 
 ## 安装
 
-将整个 `comfyUI-solarL-AV Tools` 文件夹放进 `ComfyUI/custom_nodes/`，然后重启 ComfyUI。无需新增第三方依赖。
+将整个 `comfyUI-solarL-AVTools` 文件夹放进 `ComfyUI/custom_nodes/`，然后重启 ComfyUI。无需新增第三方依赖。
 
 ## 视频音频按帧裁剪-solarL
 
